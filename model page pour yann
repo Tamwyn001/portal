@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Subnautica Fan site</title>
+        <link rel="icon" type="png" href="logo.png" />
+        <link rel="stylesheet" href="CSS/Main.css" />
+        <meta name="description" content="Guide de survie">
+        <meta charset="utf-8">
+    </head>
+<body>
+    <div id="bloc_page">
+        <header>
+            <div id="titre_principal">
+                <nav>
+                    <ul>
+                        <li><a href="https://unknownworlds.com/subnautica/">SITE OFFICEL</a></li>
+                        <li><a href="https://www.epicgames.com/store/en-US/product/subnautica/home">ACHETER</a></li>
+                        <li><a href="https://unknownworlds.com/subnautica/community/">COMMUNAUTE</a></li>
+                        <li><a href="https://www.epicgames.com/store/en-US/product/subnautica-below-zero/home">DLC</a>
+                        
+                        </li>
+                        
+                    </ul>
+                </nav>
+                <div id ="logo">
+                    <img src="banni%C3%A8re.jpg" alt="logo">
+                </div>
+            </div>
+            </header>
+    </div
