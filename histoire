@@ -1,9 +1,24 @@
-<
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>PORTAL STORIE:MEL</title>
+	<link rel="stylesheet" href="monStyle.css">
+</head>
 
 
-
-
-Portal Stories: Mel est une modification gratuite créée par la communauté pour Portal 2 basée sur l'univers Portal.
+<body>
+	<h1>Wellcome to the best site </h1>
+	<h2>Ceci est un sous titre</h2>
+	<p id="para_1">Portal Stories: Mel est une modification gratuite créée par la communauté pour Portal 2 basée sur l'univers Portal.
 Il raconte l'histoire de Mel, qui rencontre un nouveau noyau de personnalité et fait face à une menace non découverte pour l'installation Aperture.
-
 En 1952, au début d’Aperture: Science Innovators, les scientifiques de Cave Johnson ont expérimenté ce qu’ils voulaient. Tout n'a pas fonctionné comme prévu, mais cela n'empêcherait pas le progrès de la Science! Mel a malheureusement pris part à un test défectueux intitulé Vault de relaxation à court terme Aperture: Science Innovators, qui s’endormait depuis des années. Quand elle se réveille enfin, une fausse Cave Johnson lui dit qu'elle a besoin d'échapper à l'installation et un nouvel appareil appelé Portail de poche Aperture, son esprit s'emballe de questions. "Qui est cet imposteur Cave Johnson?" "Qu'est-il arrivé à l'établissement et à son personnel?"
+</p>
+	
+</body>
+
+</html>
+
+
+
+
