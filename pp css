@@ -1,4 +1,87 @@
+@font-face 
+{
+	font-family: "portal_font";
+	font-weight: bold;
+	src: url('portal-amomedi.ttf');
+}
+
+
+
+
+
+
 body
 {
-	background-color:#252525
+    background-color: black;
+ }
+
+nav ul
+{
+
+    list-style-type: portal font;
+
+    display: flex;
+
+    font-family: portal font, monospace;
 }
+
+
+nav li
+{
+
+    margin-right: 15px;
+
+}
+
+
+nav a
+{
+
+    font-size: 1.3em;
+
+    color:dodgerblue;
+
+    padding-bottom: 3px;
+
+    text-decoration: none;
+
+}
+
+
+nav a:hover
+{
+
+    color: chocolate;
+
+    border-bottom: 2px solid #f17806;
+
+}
+
+#presentation
+
+{
+    color: dimgray;
+    font-family: portal_font, monospace;
+    
+}
+
+#titre
+{
+    color: aqua;
+    font-family:portal_font, monospace;
+}
+#text
+{
+    color: dimgrey;
+    font-family: portal_font, monospace;
+}
+
+
+
+#image
+{
+    padding: 1px;
+    border: 1px solid #00f7b0;
+    box-shadow: 0px 0px 17px #00f7b0;
+}
+
