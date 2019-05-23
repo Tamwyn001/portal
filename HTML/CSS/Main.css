@@ -78,33 +78,17 @@ nav a:hover
 
 
 
-
-
-
-
-#sous_menu
-{
-    color:coral ;
-    font-family:Verdana, monospace;
-}
-#b
-{
-    border : 1px solid #000; padding : 5px; }
-    .button:hover { background-color : gray;}
-    .button:focus { border : 3px dotted green; }
-    .button:active { background-color : red; }
-}
-
-#tuto
-{
-    font-family: Verdana, monospace;
-    color:darkcyan
-        
-}
-
 #image
 {
     padding: 1px;
     border: 1px solid #00f7b0;
     box-shadow: 0px 0px 17px #00f7b0;
 }
+
+#image_
+{
+    padding: 1px;
+    border: 1px solid #00f7b0;
+    box-shadow: 0px 0px 17px #00f7b0;
+}
+
